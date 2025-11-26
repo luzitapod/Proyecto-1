@@ -1,15 +1,3 @@
-def saludo(nombre: str) ->str:
-    return f"hola, {nombre}! Bienvenido a Git, guapo"
-
-if __name__ == "__main__":
-    nombre = input("¿Tu nombre? ")
-    print(saludo(nombre))
-    print("Agregado")
-    print("Fancy de Drake")
-    print("goodd")
-    print("Eli gey1")
-    print("guau guau")
-    
 import sys, matplotlib.pyplot as plt, networkx as nx
 from matplotlib.patches import FancyArrowPatch
 
