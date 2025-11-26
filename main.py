@@ -8,3 +8,4 @@ if __name__ == "__main__":
     print("Fancy de Drake")
     print("goodd")
     print("Eli gey1")
+    print("guau guau")
