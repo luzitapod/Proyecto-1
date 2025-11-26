@@ -5,3 +5,5 @@ if __name__ == "__main__":
     nombre = input("¿Tu nombre? ")
     print(saludo(nombre))
     print("Agregado")
+    print("Fancy de Drake")
+    print("goodd")
